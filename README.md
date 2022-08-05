@@ -18,3 +18,6 @@ flask,
 request.
 
 
+## Agradecimento 🙏🏽
+
+Leonardo meu professor de Estatística e mentor na IBM .
